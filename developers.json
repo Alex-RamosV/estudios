@@ -2313,6 +2313,19 @@
       "tags": [],
       "inactive": false,
       "last_time_active": "2024-02-09T19:07:08.177Z"
+    },
+        {
+      "name": "Tachido Games",
+      "country": "México",
+      "city": "Querétaro",
+      "state": "Querétaro",
+      "website": "https://www.tachidogames.com/",
+      "twitter": "https://x.com/Tachido_Games",
+      "facebook": "https://www.facebook.com/tachidogames",
+      "instagram": "https://www.instagram.com/tachido_games/",
+      "tags": [],
+      "inactive": true,
+      "last_time_active": "2024-06-02T00:17:08.177Z"
     }
   ]
 }
